@@ -1,0 +1,154 @@
+#a1{
+position: relative;
+margin-top: 100px;
+margin-left: 500px;
+border-style: solid;
+border: 5px double rgb(141, 56, 56);
+width: 450px;
+height: 380px;
+}
+
+#head{
+    position: absolute; 
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+
+#input{
+position: absolute;
+margin-top:40px ;
+margin-left: 80px ;
+width: 280px ;
+height: 20px ;
+background-color:rgb(43, 220, 226);
+}
+
+#btn0{
+position: absolute;
+margin-top: 260px ;
+margin-left: 140px  ;
+width:  160px ;
+height:  40px ;
+
+}
+#btn1{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-top: 200px ;
+margin-left: 80px  ;
+
+    }
+
+#btn2{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-top: 200px ;
+margin-left: 140px  ;
+    }
+
+#btn3{
+position: absolute;
+width:  40px ;
+height:  40px ;
+margin-top: 200px ;
+margin-left: 200px  ;
+}
+
+#btn4{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-left: 80px  ;
+margin-top: 140px ;
+}
+
+#btn5{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-top: 140px ;
+margin-left: 140px  ;
+}
+
+#btn6{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-top: 140px ;
+margin-left: 200px  ;
+}
+
+#btn7{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-left: 80px  ;
+margin-top: 80px ;
+}    
+
+#btn8{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-left: 140px  ;
+margin-top: 80px ;
+}
+
+
+#btn9{
+    position: absolute;
+    width:  40px ;
+height:  40px ;
+margin-left: 200px  ;
+margin-top: 80px ;
+}
+
+#btnp{
+    position: absolute;
+    width: 40px ;
+    height: 40px ;
+    margin-top: 80px;
+    margin-left: 260px ;
+}
+
+#btnm{
+    position: absolute;
+    width: 40px ;
+    height: 40px ;
+    margin-top: 80px;
+    margin-left: 320px ;
+}
+
+#btnx{
+    position: absolute;
+    width: 40px ;
+    height: 40px ;
+    margin-top: 140px ;
+    margin-left: 260px ;
+}
+
+#btnd{
+    position: absolute;
+    width: 40px ;
+    height: 40px ;
+    margin-top: 140px ;
+    margin-left: 320px ;
+}
+
+#btnc{
+    position: absolute;
+    width: 40px ;
+    height: 40px ;
+    margin-top: 200px ;
+    margin-left: 260px ;
+}
+#btne{
+    position: absolute;
+    width: 40px ;
+    height: 40px ;
+    margin-top: 200px ;
+    margin-left: 320px ;
+}
